@@ -22,5 +22,5 @@ fetch('https://free-food-menus-api-production.up.railway.app/burgers').then((dat
 
     setTimeout(()=>{
        alert('Order is diliver thanks')
-    },5000)
+    },9000)
 
